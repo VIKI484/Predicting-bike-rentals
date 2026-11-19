@@ -33,8 +33,9 @@ data.
 
 ## Run the notebook
 
-Open `Regression.ipynb` in Jupyter or PyCharm and select the project's Python
-environment (`.venv`). The notebook requires pandas, NumPy, Matplotlib, and
+Install the dependencies with `pip install -r requirements.txt`, then open
+`Regression.ipynb` in Jupyter or PyCharm and select the project's Python
+environment (`.venv`). The notebook uses pandas, NumPy, Matplotlib, and
 scikit-learn.
 
 ## Dataset attribution and license
